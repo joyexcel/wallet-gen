@@ -23,5 +23,4 @@ this command will:
 
 ## request testnet tokens in discord 
 https://discord.gg/EMSaWJUH
-
-https://faucet.octra.network
+request tokens in #tokensharing channel
