@@ -19,6 +19,9 @@ this command will:
 - start the server and open the generator web UI page in your browser
 - install to `~/.octra/wallet-generator` for future use
 
-## request testnet tokens
+- **save wallet details**
+
+## request testnet tokens in discord 
+https://discord.gg/EMSaWJUH
 
 https://faucet.octra.network
